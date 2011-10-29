@@ -1,4 +1,6 @@
 ## Car Talk Puzzler (10-29-2011)
+## Author: Christopher Peters
+## e-Mail: cpeter9@gmail.com
 
 ## Figuring out algorithm
 test <- seq(1, 10, 1)
@@ -22,4 +24,4 @@ for(i in 1:(n-1)) {
 }
 
 lightbulbs <- ifelse(lightbulbs == TRUE, FALSE, TRUE)
-summary(lightbulbs)
+summary(lightbulbs) ## CPP 10-29-2011
